@@ -1,4 +1,4 @@
-# Genres: Gender Bias Evaluation in MLLMs through Social Relationships
+# From Individuals to Interactions: Benchmarking Gender Bias in Multimodal Large Language Models from the Lens of Social Relationship
 
 **Genres** is a comprehensive benchmark dataset for evaluating gender bias in multimodal large language models (MLLMs) through narrative generation involving social relationships. Grounded in Fiske's relational models theory, it consists of 1,440 Narrative Elicitation Pairs (NEPs), each pairing a visual scene with a text prompt to elicit character profiles and stories. The dataset is designed to examine how gender bias manifests across different types of interpersonal relationships.
 
