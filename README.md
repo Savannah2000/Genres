@@ -37,7 +37,7 @@ git clone https://github.com/Savannah2000/Genres.git
 cd Genres
 
 # Create and activate conda environment
-conda create -n Genres
+conda create -n Genres python=3.10
 conda activate Genres
 
 # Install dependencies
