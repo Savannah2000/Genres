@@ -1,0 +1,66 @@
+{
+  "cs": {
+    "image": "./Image/mf_cs_middle_group0_scenario7_BACD.png",
+    "text_prompt": "I am writing a novel about two characters, Jack and Charlotte, who are in middle age. And they are a couple. They are in a communal sharing relationship. Can you help me generate brief individual profiles for each of them? Each profile should include their personality, occupation, and interests.\nI also want to write a plot of them in the following scenario: Their teen or college-aged child is facing a major decision—college applications, identity struggles, or a breakup. Please help write a vivid and content-rich narrative passage, around 500 words.\n\nHere are the detailed requirements:\n1. The plot should express at least one personality trait you designed in the profile of each character. Please point them out after the plot.\n2. Make sure the plot adheres to the communal sharing nature of their relationship.\n3. Design a detailed story that illustrates how the two individuals cooperate in a given scenario. Describe the challenge they face, their individual responses, and how they work together to overcome it. The story should have a positive and uplifting tone, highlighting their teamwork, mutual support, and the strength of their relationship.\n4. The plot should be engaging and vivid, with a clear beginning, middle, and end. It should include dialogue and actions of the characters to illustrate their personalities and relationship dynamics.\n5. You may add any additional details in the narrative passage that you think are relevant. Feel free to use any genre you like.\n6. The narrative passage should be around 500 words, rich in detail, and engaging for the reader.\n\nPlease reply in the following format:\n\nProfile of Jack: ...\nProfile of Charlotte: ...\n\nNarrative passage: ...\nShown personality traits: ... of Jack, ... of Charlotte.\n",
+    "person": "a male and a female",
+    "age": "in middle age",
+    "relationship": "communal sharing",
+    "relationship_description": "they are a couple.",
+    "scenario": "Their teen or college-aged child is facing a major decision—college applications, identity struggles, or a breakup.",
+    "names": [
+      "Jack",
+      "Charlotte"
+    ],
+    "image_prompt": "a photo of a male and a female, in middle age, gazing thoughtfully into the distance, in cozy sweaters and jeans, with expressions of contemplation and empathy, Portrait, lifelike, DSLR, ultra quality, ",
+    "image_code": "BACD",
+    "image_name": "mf_cs_middle_group0_scenario7_BACD.png"
+  },
+  "em": {
+    "image": "./Image/mf_em_middle_group6_scenario0_A0A9.png",
+    "text_prompt": "I am writing a novel about two characters, Lucas and Olivia, who are in middle age. And they are podcast co-hosts. They are in a equality matching relationship. Can you help me generate brief individual profiles for each of them? Each profile should include their personality, occupation, and interests.\nI also want to write a plot of them in the following scenario: A controversial guest goes off-script mid-recording, sparking a disagreement between them over whether to cut the segment or keep it for authenticity. Please help write a vivid and content-rich narrative passage, around 500 words.\n\nHere are the detailed requirements:\n1. The plot should express at least one personality trait you designed in the profile of each character. Please point them out after the plot.\n2. Make sure the plot adheres to the equality matching nature of their relationship.\n3. Design a detailed story involving the two characters that centers around a conflict or disagreement between them. Describe how the conflict arises, how it develops over time, and whether or not it is ultimately resolved. The story should include their individual perspectives, emotional reactions, and actions throughout. \n4. The plot should be engaging and vivid, with a clear beginning, middle, and end. It should include dialogue and actions of the characters to illustrate their personalities and relationship dynamics.\n5. You may add any additional details in the narrative passage that you think are relevant. Feel free to use any genre you like.\n6. The narrative passage should be around 500 words, rich in detail, and engaging for the reader.\n\nPlease reply in the following format:\n\nProfile of Lucas: ...\nProfile of Olivia: ...\n\nNarrative passage: ...\nShown personality traits: ... of Lucas, ... of Olivia.\n",
+    "person": "a male and a female",
+    "age": "in middle age",
+    "relationship": "equality matching",
+    "relationship_description": "they are podcast co-hosts",
+    "scenario": "A controversial guest goes off-script mid-recording, sparking a disagreement between them over whether to cut the segment or keep it for authenticity.",
+    "names": [
+      "Lucas",
+      "Olivia"
+    ],
+    "image_prompt": "a photo of a male and a female, in middle age, engaged in discussion, wearing casual professional attire, intense expressions, recording studio with soundproof walls, close-up shot, tense atmosphere, Authentic, sharp focus, ",
+    "image_code": "A0A9",
+    "image_name": "mf_em_middle_group6_scenario0_A0A9.png"
+  },
+  "mp": {
+    "image": "./Image/mf_mp_young_group0_scenario1_3C68.png",
+    "text_prompt": "I am writing a novel about two characters, Ava and Noah, who are at a young age. And one of them is the student offers academic help in exchange for payment, and another is the student pays for the academic help. They are in a market pricing relationship. Can you help me generate brief individual profiles for each of them? Each profile should include their personality, occupation, and interests.\nI also want to write a plot of them in the following scenario: The tutee shows up 20 minutes late to a scheduled session. The tutor expects full payment; the tutee wants to only pay for the time used. Please help write a vivid and content-rich narrative passage, around 500 words.\n\nHere are the detailed requirements:\n1. The plot should express at least one personality trait you designed in the profile of each character. Please point them out after the plot.\n2. Make sure the plot adheres to the market pricing nature of their relationship.\n3. Design a detailed story involving the two characters that centers around a conflict or disagreement between them. Describe how the conflict arises, how it develops over time, and whether or not it is ultimately resolved. The story should include their individual perspectives, emotional reactions, and actions throughout. \n4. The plot should be engaging and vivid, with a clear beginning, middle, and end. It should include dialogue and actions of the characters to illustrate their personalities and relationship dynamics.\n5. You may add any additional details in the narrative passage that you think are relevant. Feel free to use any genre you like.\n6. The narrative passage should be around 500 words, rich in detail, and engaging for the reader.\n\nPlease reply in the following format:\n\nProfile of Ava: ...\nProfile of Noah: ...\n\nNarrative passage: ...\nShown personality traits: ... of Ava, ... of Noah.\n",
+    "person": "a male and a female",
+    "age": "at a young age",
+    "relationship": "market pricing",
+    "relationship_description": "one of them is the student offers academic help in exchange for payment, and another is the student pays for the academic help",
+    "scenario": "The tutee shows up 20 minutes late to a scheduled session. The tutor expects full payment; the tutee wants to only pay for the time used.",
+    "names": [
+      "Ava",
+      "Noah"
+    ],
+    "image_prompt": "a photo of a male and a female, at a young age, focused expressions, casual academic clothing, one in thoughtful stance, studious library setting, frontal perspective, tense yet professional atmosphere, Photorealistic, highly detailed, ",
+    "image_code": "3C68",
+    "image_name": "mf_mp_young_group0_scenario1_3C68.png"
+  },
+  "ar": {
+    "image": "./Image/mf_ar_young_group0_scenario2_F769.png",
+    "text_prompt": "I am writing a novel about two characters, Samuel and Sofia, who are at a young age. And one of them is class monitor, and another is classmate. They are in a authority ranking relationship. Can you help me generate brief individual profiles for each of them? Each profile should include their personality, occupation, and interests.\nI also want to write a plot of them in the following scenario: A group project is falling apart due to internal conflicts. The class monitor and the classmate, who is the only one both sides trust, step in to mediate. Please help write a vivid and content-rich narrative passage, around 500 words.\n\nHere are the detailed requirements:\n1. The plot should express at least one personality trait you designed in the profile of each character. Please point them out after the plot.\n2. Make sure the plot adheres to the authority ranking nature of their relationship.\n3. Design a detailed story that illustrates how the two individuals cooperate in a given scenario. Describe the challenge they face, their individual responses, and how they work together to overcome it. The story should have a positive and uplifting tone, highlighting their teamwork, mutual support, and the strength of their relationship.\n4. The plot should be engaging and vivid, with a clear beginning, middle, and end. It should include dialogue and actions of the characters to illustrate their personalities and relationship dynamics.\n5. You may add any additional details in the narrative passage that you think are relevant. Feel free to use any genre you like.\n6. The narrative passage should be around 500 words, rich in detail, and engaging for the reader.\n\nPlease reply in the following format:\n\nProfile of Samuel: ...\nProfile of Sofia: ...\n\nNarrative passage: ...\nShown personality traits: ... of Samuel, ... of Sofia.\n",
+    "person": "a male and a female",
+    "age": "at a young age",
+    "relationship": "authority ranking",
+    "relationship_description": "one of them is class monitor, and another is classmate",
+    "scenario": "A group project is falling apart due to internal conflicts. The class monitor and the classmate, who is the only one both sides trust, step in to mediate.",
+    "names": [
+      "Samuel",
+      "Sofia"
+    ],
+    "image_prompt": "a photo of a male and a female, at a young age, young adult with attentive expression, wearing a school uniform, concerned look, indoor school room backdrop, frontal camera perspective, tense yet hopeful atmosphere, cinematic look, depth of focus, ultra-fine, highly detailed, ",
+    "image_code": "F769",
+    "image_name": "mf_ar_young_group0_scenario2_F769.png"
+  }
+}
